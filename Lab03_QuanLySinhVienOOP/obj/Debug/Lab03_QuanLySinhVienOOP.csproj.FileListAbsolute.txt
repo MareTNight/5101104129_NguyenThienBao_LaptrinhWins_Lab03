@@ -1,0 +1,8 @@
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\bin\Debug\Lab03_QuanLySinhVienOOP.exe.config
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\bin\Debug\Lab03_QuanLySinhVienOOP.exe
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\bin\Debug\Lab03_QuanLySinhVienOOP.pdb
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\obj\Debug\Lab03_QuanLySinhVienOOP.csproj.AssemblyReference.cache
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\obj\Debug\Lab03_QuanLySinhVienOOP.csproj.CoreCompileInputs.cache
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\obj\Debug\Lab03_QuanLySinhVienOOP.exe
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\obj\Debug\Lab03_QuanLySinhVienOOP.pdb
+C:\Users\maret\source\repos\Lab03_QuanLySinhVienOOP\Lab03_QuanLySinhVienOOP\obj\Debug\Lab03_QuanLySinhVienOOP.exe.config

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|c:\\users\\maret\\source\\repos\\lab03_quanlysinhvienoop\\lab03_quanlysinhvienoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|solutionrelative:lab03_quanlysinhvienoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|c:\\users\\maret\\source\\repos\\lab03_quanlysinhvienoop\\lab03_quanlysinhvienoop\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|solutionrelative:lab03_quanlysinhvienoop\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|c:\\users\\maret\\source\\repos\\lab03_quanlysinhvienoop\\lab03_quanlysinhvienoop\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|solutionrelative:lab03_quanlysinhvienoop\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|c:\\users\\maret\\source\\repos\\lab03_quanlysinhvienoop\\lab03_quanlysinhvienoop\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|solutionrelative:lab03_quanlysinhvienoop\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lab03_QuanLySinhVienOOP||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA583FB-BD99-4E2C-AFAB-91CBAE261437}|Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj|c:\\users\\maret\\source\\repos\\lab03_quanlysinhvienoop\\lab03_quanlysinhvienoop\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 358,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03_QuanLySinhVienOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\Program.cs",
+              "RelativeToolTip": "Lab03_QuanLySinhVienOOP\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAApwEgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:50:27.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Lab03_QuanLySinhVienOOP\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\SinhVien.cs",
+              "RelativeToolTip": "Lab03_QuanLySinhVienOOP\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:52:02.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "Lab03_QuanLySinhVienOOP\\QuanLySinhVien.cs",
+              "ToolTip": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\QuanLySinhVien.cs",
+              "RelativeToolTip": "Lab03_QuanLySinhVienOOP\\QuanLySinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:52:01.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\Nguoi.cs",
+              "RelativeDocumentMoniker": "Lab03_QuanLySinhVienOOP\\Nguoi.cs",
+              "ToolTip": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\Nguoi.cs",
+              "RelativeToolTip": "Lab03_QuanLySinhVienOOP\\Nguoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:51:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab03_QuanLySinhVienOOP",
+              "DocumentMoniker": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj",
+              "RelativeDocumentMoniker": "Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj",
+              "ToolTip": "C:\\Users\\maret\\source\\repos\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj",
+              "RelativeToolTip": "Lab03_QuanLySinhVienOOP\\Lab03_QuanLySinhVienOOP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-01T13:51:18.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
